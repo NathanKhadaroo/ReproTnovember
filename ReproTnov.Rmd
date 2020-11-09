@@ -140,6 +140,20 @@ class: center, middle
 
 # Preregistration
 
+Time stamped document that includes:
+- research questions
+- hypotheses
+- method
+- data processing
+- analysis plans (e.g. statistical tests)
+
+--
+
+Separates confirmatory from exploratory
+
+--
+
+"Stifles creativity?" Nope!
 
 ---
 class: center, middle
