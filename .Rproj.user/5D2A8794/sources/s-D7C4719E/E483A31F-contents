@@ -1,0 +1,150 @@
+---
+title: "ReproducibiliTea Manchester! <br> November 2020: <br> Paper: \"Easing Into Open Science: A Guide for Graduate Students and Their Advisors \" <br> by Ummul-Kiram Kathawalla, Priya Silverstein, and Moin Syed"
+subtitle: "Jade Pickering: <br> Division of Neuroscience and Experimental Psychology <br> Nathan Khadaroo-McCheyne: <br> Centre for Data Analytics and Society"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle
+
+# Open Research: What is it? <br> Why do we do it?
+
+---
+class: center, middle
+
+# What does Open Research mean to you?
+
+---
+
+# What is Open Research?
+
+--
+
+For the authors, "Open science is best described as “an umbrella term used to refer to the concepts of openness, transparency, rigor, reproducibility, replicability, and accumulation of knowledge, which are considered fundamental features of science” (Crüwell et al., 2019, p. 3), along with “openly creating, sharing, and accessing research”
+
+--
+
+# Why Open Research?
+--
+
+bla
+
+---
+
+
+The authors suggest eight different open research practices that novice graduate students could begin adopting straight away: 
+
+--
+
+- Journal clubs
+
+--
+
+- Project workflow
+
+--
+
+- Preprints
+
+--
+
+- Reproducible code
+
+--
+
+- Data sharing
+
+--
+
+- Transparent writing
+
+--
+
+- Preregistration
+
+--
+
+- Registered reports
+
+--
+
+In this session we will briefly explain each of these concepts, and then have a short discussion around them.
+
+---
+
+class: center, middle
+
+# Journal clubs
+
+---
+
+Congratulations! You're already here.
+
+---
+
+class: center, middle
+
+# Project workflow
+
+
+---
+class: center, middle
+
+# Preprints
+
+
+---
+class: center, middle
+
+# Reproducible code
+
+---
+
+**What?**
+
+Reproducible code for data analysis and visualizations (e.g. tables, figures) refers
+to a detailed, written version of your code that would allow someone else (or your future self) to generate the same output reported in your manuscript.
+
+**Why?** 
+
+- detection of errors
+
+- ease of modification in the analysis or visualization
+
+- facilitation of sharing and collaboration
+
+- easy to make small changes to repeat similar steps within the same project
+
+- scripts from one project can be used as a starting point for another, therefore saving a lot of time in the long run. 
+
+- reproducible code allows for other people to transparently reproduce your analyses or
+visualizations.
+---
+class: center, middle
+
+# Data sharing
+
+
+---
+class: center, middle
+
+# Transparent writing
+
+
+---
+class: center, middle
+
+# Preregistration
+
+
+---
+class: center, middle
+
+# Registered reports
+
+
+---
