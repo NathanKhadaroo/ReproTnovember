@@ -3,7 +3,7 @@
     "path": "~/Desktop/PhD/Open science/ReproTnovember/ReproTnov.Rmd",
     "project_path": "ReproTnov.Rmd",
     "type": "r_markdown",
-    "hash": "2922640136",
+    "hash": "3173642521",
     "contents": "",
     "dirty": false,
     "created": 1604858525273.0,
@@ -11,15 +11,15 @@
     "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "38,126",
-        "scrollLine": "28"
+        "cursorPosition": "141,0",
+        "scrollLine": "127"
     },
     "folds": "",
-    "lastKnownWriteTime": 1604939320,
+    "lastKnownWriteTime": 1604940777,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1604939320424,
+    "last_content_update": 1604940777642,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -123,6 +123,26 @@ to a detailed, written version of your code that would allow someone else (or yo
 
 - reproducible code allows for other people to transparently reproduce your analyses or
 visualizations.
+
+---
+**Easy:**
+
+If you 
+
+--
+
+**Medium:**
+
+
+--
+
+**Hard:**
+
+- Containerisation:
+
+Andrew Stewart has some excellent resources on binder you can find[here](https://ajstewartlang.github.io/23_introduction_to_binder/knitted_workshop/23_introduction_to_binder.html)
+
+
 ---
 class: center, middle
 
@@ -146,5 +166,6 @@ class: center, middle
 
 # Registered reports
 
-
+---
+![](registered_reports.width-800.png)
 ---
