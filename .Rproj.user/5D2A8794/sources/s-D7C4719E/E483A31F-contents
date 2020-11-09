@@ -133,12 +133,33 @@ If you
 
 **Medium:**
 
+It's important to make explicit which software you have used, and which versions of that software...
+
+In python you can do this using:
+
+```{python, eval = FALSE}
+from sinfo import sinfo
+
+sinfo()
+
+```
+
+If you are using R you can use:
+
+```{r}
+sessionInfo()
+```
+
+
+
 
 --
 
 **Hard:**
 
-- Containerisation:
+- Containerization:
+
+"A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another" (Docker, 2020).
 
 Andrew Stewart has some excellent resources on binder you can find[here](https://ajstewartlang.github.io/23_introduction_to_binder/knitted_workshop/23_introduction_to_binder.html)
 
@@ -160,6 +181,20 @@ class: center, middle
 
 # Preregistration
 
+Time stamped document that includes:
+- research questions
+- hypotheses
+- method
+- data processing
+- analysis plans (e.g. statistical tests)
+
+--
+
+Separates confirmatory from exploratory
+
+--
+
+"Stifles creativity?" Nope!
 
 ---
 class: center, middle
