@@ -108,6 +108,7 @@ class: center, middle
 - where?
  - arXiv, bioRxiv, PsyArXiv etc
 
+
 ---
 class: center, middle
 
@@ -145,6 +146,15 @@ class: center, middle
 
 # Transparent writing
 
+- openness
+- detail
+ - hypotheses
+ - stopping rules
+ - analysis
+- can go in supplementary materials if short on space
+- allows others to understand/reproduce your work
+- increases trust in your results
+- normalises mistakes!
 
 ---
 class: center, middle
