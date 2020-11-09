@@ -50,6 +50,8 @@ The authors suggest eight different open research practices that novice graduate
 
 - Preprints
 
+
+
 --
 
 - Reproducible code
@@ -96,6 +98,15 @@ class: center, middle
 
 # Preprints
 
+- disseminate research as soon as it's finished
+ - before submitting to a journal
+ - during peer review
+- allows feedback (informal peer review)
+- compatible with most publishers' policies
+ - can check with Sherpa Romeo (https://v2.sherpa.ac.uk/romeo/)
+- update with a postprints (after peer review)
+- where?
+ - arXiv, bioRxiv, PsyArXiv etc
 
 ---
 class: center, middle
