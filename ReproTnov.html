@@ -56,6 +56,8 @@ The authors suggest eight different open research practices that novice graduate
 
 - Preprints
 
+
+
 --
 
 - Reproducible code
@@ -102,6 +104,32 @@ class: center, middle
 
 # Preprints
 
+---
+
+** Preprints:**
+
+- disseminate research as soon as it's finished 
+ - before submitting to a journal
+ - during peer review
+ 
+&lt;br&gt;
+
+- allows feedback (informal peer review)
+
+&lt;br&gt;
+
+
+- compatible with most publishers' policies
+ - can check with Sherpa Romeo (https://v2.sherpa.ac.uk/romeo/)
+ 
+&lt;br&gt;
+
+- update with a postprints (after peer review)
+
+&lt;br&gt;
+
+- where?
+ - arXiv, bioRxiv, PsyArXiv etc
 
 ---
 class: center, middle
@@ -129,6 +157,71 @@ to a detailed, written version of your code that would allow someone else (or yo
 
 - reproducible code allows for other people to transparently reproduce your analyses or
 visualizations.
+
+---
+**Easy:**
+
+If 
+
+---
+
+**Medium:**
+
+It's important to make explicit which software you have used, and which versions of that software...
+
+In python you can do this using:
+
+
+```python
+from sinfo import sinfo
+
+sinfo()
+```
+
+If you are using R you can use:
+
+
+```r
+sessionInfo()
+```
+
+```
+## R version 4.0.2 (2020-06-22)
+## Platform: x86_64-apple-darwin17.0 (64-bit)
+## Running under: macOS Catalina 10.15.7
+## 
+## Matrix products: default
+## BLAS:   /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRblas.dylib
+## LAPACK: /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRlapack.dylib
+## 
+## locale:
+## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+## 
+## attached base packages:
+## [1] stats     graphics  grDevices utils     datasets  methods   base     
+## 
+## loaded via a namespace (and not attached):
+##  [1] Rcpp_1.0.5      lattice_0.20-41 digest_0.6.25   grid_4.0.2     
+##  [5] jsonlite_1.7.1  magrittr_1.5    evaluate_0.14   xaringan_0.17  
+##  [9] rlang_0.4.7     stringi_1.5.3   Matrix_1.2-18   reticulate_1.16
+## [13] rmarkdown_2.3   tools_4.0.2     stringr_1.4.0   xfun_0.17      
+## [17] yaml_2.2.1      compiler_4.0.2  htmltools_0.5.0 knitr_1.30
+```
+
+
+
+
+---
+
+**Hard:**
+
+- Containerization:
+
+"A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another" (Docker, 2020).
+
+Andrew Stewart has some excellent resources on binder you can find[here](https://ajstewartlang.github.io/23_introduction_to_binder/knitted_workshop/23_introduction_to_binder.html)
+
+
 ---
 class: center, middle
 
@@ -146,13 +239,28 @@ class: center, middle
 
 # Preregistration
 
+Time stamped document that includes:
+- research questions
+- hypotheses
+- method
+- data processing
+- analysis plans (e.g. statistical tests)
+
+--
+
+Separates confirmatory from exploratory
+
+--
+
+"Stifles creativity?" Nope!
 
 ---
 class: center, middle
 
 # Registered reports
 
-
+---
+![](registered_reports.width-800.png)
 ---
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>

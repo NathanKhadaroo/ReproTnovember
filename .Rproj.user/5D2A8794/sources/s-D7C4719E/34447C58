@@ -1,25 +1,25 @@
 {
-    "id": "E483A31F",
+    "id": "34447C58",
     "path": "~/Desktop/PhD/Open science/ReproTnovember/ReproTnov.Rmd",
     "project_path": "ReproTnov.Rmd",
     "type": "r_markdown",
-    "hash": "3789064512",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
-    "created": 1604858525273.0,
+    "dirty": true,
+    "created": 1604941337648.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "149,12",
-        "scrollLine": "117"
+        "cursorPosition": "157,22",
+        "scrollLine": "144"
     },
     "folds": "",
-    "lastKnownWriteTime": 1604941221,
+    "lastKnownWriteTime": 1604941765,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1604941221960,
+    "last_content_update": 1604942297511,
     "read_only": false,
     "read_only_alternatives": []
 }

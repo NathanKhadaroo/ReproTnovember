@@ -98,13 +98,30 @@ class: center, middle
 
 # Preprints
 
-- disseminate research as soon as it's finished
+---
+
+** Preprints:**
+
+- disseminate research as soon as it's finished 
  - before submitting to a journal
  - during peer review
+ 
+<br>
+
 - allows feedback (informal peer review)
+
+<br>
+
+
 - compatible with most publishers' policies
  - can check with Sherpa Romeo (https://v2.sherpa.ac.uk/romeo/)
+ 
+<br>
+
 - update with a postprints (after peer review)
+
+<br>
+
 - where?
  - arXiv, bioRxiv, PsyArXiv etc
 
@@ -138,9 +155,9 @@ visualizations.
 ---
 **Easy:**
 
-If you 
+If 
 
---
+---
 
 **Medium:**
 
@@ -164,7 +181,7 @@ sessionInfo()
 
 
 
---
+---
 
 **Hard:**
 
