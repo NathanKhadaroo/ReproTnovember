@@ -51,7 +51,6 @@ The authors suggest eight different open research practices that novice graduate
 - Preprints
 
 
-
 --
 
 - Reproducible code
@@ -84,6 +83,7 @@ class: center, middle
 
 ---
 
+
 Congratulations! You're already here.
 
 ---
@@ -92,21 +92,55 @@ class: center, middle
 
 # Project workflow
 
+---
+**What is it?**
+
+"Project workflow refers to how you organize projects and move through the
+various stages of the research cycle. This includes your file folder structure, document naming
+conventions, version control, cloud storage, and other details. It also includes the choice of who
+has access to the project (e.g., collaborators, the public) and when in the process they have access
+(e.g., at all times, upon publication)."
+
+--
+
+**How to do it?**
+
+The authors suggest an easy first step is to create an [osf account](https://osf.io). This allows you to publicly store elements of your research project, and create a citable DOI, so people can gve you credit for your work.
+
+I would also recommend steps such as setting up an R project if you are doing your project in R, or consider using the [workflowR package](https://github.com/jdblischak/workflowr)
 
 ---
 class: center, middle
 
 # Preprints
 
-- disseminate research as soon as it's finished
+---
+
+** Preprints:**
+
+- disseminate research as soon as it's finished 
  - before submitting to a journal
  - during peer review
+ 
+<br>
+
 - allows feedback (informal peer review)
+
+<br>
+
+
 - compatible with most publishers' policies
  - can check with Sherpa Romeo (https://v2.sherpa.ac.uk/romeo/)
+ 
+<br>
+
 - update with a postprints (after peer review)
+
+<br>
+
 - where?
  - arXiv, bioRxiv, PsyArXiv etc
+
 
 ---
 class: center, middle
@@ -138,11 +172,21 @@ visualizations.
 ---
 **Easy:**
 
-If you 
+If you are already using scripted and open-sourced software like R, Python, or Julia, great!
 
---
+If you are used to using a point and click software such as SPSS (propreitary) or JASP (Open sourced)
+
+
+
+---
 
 **Medium:**
+
+- Script your analysis, using open-sourced software.
+
+Why does open sourced software matter?
+
+Open sourced software means your analysis can be reproduced by anyone with a computer and an internet connection, regardless of their resources. This is especially relevant right now as even highly resourceful universities (like Manchester) are unable to buy 
 
 It's important to make explicit which software you have used, and which versions of that software...
 
@@ -157,14 +201,14 @@ sinfo()
 
 If you are using R you can use:
 
-```{r}
+```{r, eval = FALSE}
 sessionInfo()
 ```
 
 
 
 
---
+---
 
 **Hard:**
 
@@ -182,21 +226,45 @@ class: center, middle
 
 
 ---
+
+
+
+---
 class: center, middle
 
 # Transparent writing
 
+---
+# Transparent writing:
+
+- openness
+- detail
+ - hypotheses
+ - stopping rules
+ - analysis
+- can go in supplementary materials if short on space
+- allows others to understand/reproduce your work
+- increases trust in your results
+- normalises mistakes!
 
 ---
 class: center, middle
 
 # Preregistration
 
+---
+What is preregistration:
+
 Time stamped document that includes:
+
 - research questions
+
 - hypotheses
+
 - method
+
 - data processing
+
 - analysis plans (e.g. statistical tests)
 
 --
